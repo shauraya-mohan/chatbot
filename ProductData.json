@@ -1,0 +1,469 @@
+{
+  "products": [
+    {
+      "id": "oto-smart-sprinkler",
+      "name": "OtO Smart Sprinkler System",
+      "category": "Smart Irrigation",
+      "type": "Main Product",
+      "status": "Active",
+      "price": {
+        "current_price_usd": 499,
+        "historical_price_usd": 399,
+        "currency": "USD",
+        "price_range": "499-589",
+        "promotional_discounts": "Up to 20% off for multiple devices"
+      },
+      "dimensions": {
+        "length_inches": 16.0,
+        "height_inches": 12.3,
+        "width_inches": 3.9,
+        "weight_kg": 2.722,
+        "weight_lbs": 6.0
+      },
+      "coverage": {
+        "radius_feet": 40,
+        "diameter_feet": 80,
+        "area_sqft": 5000,
+        "practical_coverage_sqft": 2800,
+        "spray_pattern": "360-degree",
+        "precision_zones": "Unlimited custom zones"
+      },
+      "power_requirements": {
+        "primary_power": "Solar panel (on-board)",
+        "solar_hours_required": 3,
+        "backup_power": "50ft power cable with wall adapter",
+        "external_solar_compatible": true,
+        "battery_type": "Rechargeable lithium",
+        "operating_temperature_min_f": 32,
+        "operating_temperature_max_f": 149
+      },
+      "water_requirements": {
+        "minimum_pressure_psi": 50,
+        "recommended_pressure_psi": 55,
+        "minimum_hose_diameter_inches": 0.625,
+        "flow_rate_gpm": 5.6,
+        "connection_type": "Brass garden hose thread (GHT)"
+      },
+      "connectivity": {
+        "wifi_frequency": "2.4GHz",
+        "wifi_signal_requirement": "-70 dBm or greater",
+        "bluetooth": true,
+        "app_required": true
+      },
+      "app_compatibility": {
+        "ios_version": "13.0+",
+        "android_version": "8.0+",
+        "subscription_cost": "Free for life",
+        "languages": [
+          "English"
+        ]
+      },
+      "installation": {
+        "setup_time": "Minutes",
+        "tools_required": "None (included)",
+        "mounting_options": [
+          "Ground stake",
+          "Wall mount",
+          "Fence mount",
+          "Post mount"
+        ],
+        "professional_installation": false,
+        "trenching_required": false
+      },
+      "features": [
+        "Weather-intelligent watering",
+        "Custom zone creation (spot, line, area)",
+        "Wind skip functionality",
+        "Real-time weather adjustments",
+        "Mobile app control",
+        "Automatic scheduling",
+        "Security features",
+        "Theft deterrence",
+        "Battery monitoring"
+      ],
+      "included_accessories": [
+        "Steel mounting bracket",
+        "Mounting screws (4)",
+        "Thumb screws (4)",
+        "50ft power cable with wall adapter",
+        "Quick start guide"
+      ],
+      "warranty": {
+        "duration_years": 2,
+        "coverage": "Parts and labor",
+        "return_policy_days": 30
+      },
+      "awards": [
+        "CES 2022 Best of Innovation Award",
+        "TIME's Best Inventions of 2022"
+      ],
+      "pros": [
+        "Easy setup in minutes",
+        "Precision watering saves water",
+        "Solar powered operation",
+        "Weather intelligence",
+        "No trenching required",
+        "Multiple mounting options"
+      ],
+      "cons": [
+        "High price point",
+        "Actual range often shorter than advertised",
+        "Requires 3+ hours direct sunlight",
+        "Limited to 2.4GHz WiFi",
+        "Durability concerns after warranty"
+      ]
+    },
+    {
+      "id": "external-solar-panel",
+      "name": "External Solar Panel Accessory",
+      "category": "Power Accessory",
+      "type": "Accessory",
+      "status": "Active",
+      "price": {
+        "current_price_usd": 99,
+        "historical_price_usd": 89,
+        "currency": "USD",
+        "price_range": "89-99",
+        "promotional_discounts": "Available with bundle deals"
+      },
+      "dimensions": {
+        "length_inches": 12.0,
+        "height_inches": 8.0,
+        "width_inches": 1.0,
+        "weight_kg": 1.0,
+        "weight_lbs": 2.2
+      },
+      "coverage": {
+        "radius_feet": "N/A",
+        "diameter_feet": "N/A",
+        "area_sqft": "N/A",
+        "practical_coverage_sqft": "N/A",
+        "spray_pattern": "N/A",
+        "precision_zones": "N/A"
+      },
+      "power_requirements": {
+        "primary_power": "Solar energy",
+        "solar_hours_required": 3,
+        "backup_power": "N/A",
+        "external_solar_compatible": "N/A",
+        "battery_type": "N/A - charges main device",
+        "operating_temperature_min_f": 32,
+        "operating_temperature_max_f": 149
+      },
+      "water_requirements": {
+        "minimum_pressure_psi": "N/A",
+        "recommended_pressure_psi": "N/A",
+        "minimum_hose_diameter_inches": "N/A",
+        "flow_rate_gpm": "N/A",
+        "connection_type": "N/A"
+      },
+      "connectivity": {
+        "wifi_frequency": "N/A",
+        "wifi_signal_requirement": "N/A",
+        "bluetooth": false,
+        "app_required": false
+      },
+      "app_compatibility": {
+        "ios_version": "N/A",
+        "android_version": "N/A",
+        "subscription_cost": "N/A",
+        "languages": "N/A"
+      },
+      "installation": {
+        "setup_time": "15 minutes",
+        "tools_required": "Screwdriver (included)",
+        "mounting_options": [
+          "Wall mount",
+          "Fence mount",
+          "Post mount"
+        ],
+        "professional_installation": false,
+        "trenching_required": false
+      },
+      "features": [
+        "16ft connection cable",
+        "Adjustable mounting bracket",
+        "Weather-resistant construction",
+        "Connects to main OtO device",
+        "Extends solar power options"
+      ],
+      "included_accessories": [
+        "Mounting bracket",
+        "Wood screws (2)",
+        "Masonry plugs (2)",
+        "16ft connection cable"
+      ],
+      "warranty": {
+        "duration_years": 2,
+        "coverage": "Parts and labor",
+        "return_policy_days": 30
+      },
+      "awards": [],
+      "pros": [
+        "Solves shading issues",
+        "16ft cable provides flexibility",
+        "Easy mounting system",
+        "Weather resistant",
+        "Extends device placement options"
+      ],
+      "cons": [
+        "Additional cost",
+        "Requires mounting location with sun",
+        "Cable management needed",
+        "Not weatherproof at connections"
+      ]
+    },
+    {
+      "id": "mounting-bracket-kit",
+      "name": "Steel Mounting Bracket System",
+      "category": "Installation Accessory",
+      "type": "Accessory",
+      "status": "Active",
+      "price": {
+        "current_price_usd": 29,
+        "historical_price_usd": 25,
+        "currency": "USD",
+        "price_range": "25-29",
+        "promotional_discounts": "Included with main device"
+      },
+      "dimensions": {
+        "length_inches": 8.0,
+        "height_inches": 6.0,
+        "width_inches": 4.0,
+        "weight_kg": 0.8,
+        "weight_lbs": 1.8
+      },
+      "coverage": {
+        "radius_feet": "N/A",
+        "diameter_feet": "N/A",
+        "area_sqft": "N/A",
+        "practical_coverage_sqft": "N/A",
+        "spray_pattern": "N/A",
+        "precision_zones": "N/A"
+      },
+      "power_requirements": {
+        "primary_power": "N/A",
+        "solar_hours_required": "N/A",
+        "backup_power": "N/A",
+        "external_solar_compatible": "N/A",
+        "battery_type": "N/A",
+        "operating_temperature_min_f": -20,
+        "operating_temperature_max_f": 149
+      },
+      "water_requirements": {
+        "minimum_pressure_psi": "N/A",
+        "recommended_pressure_psi": "N/A",
+        "minimum_hose_diameter_inches": "N/A",
+        "flow_rate_gpm": "N/A",
+        "connection_type": "N/A"
+      },
+      "connectivity": {
+        "wifi_frequency": "N/A",
+        "wifi_signal_requirement": "N/A",
+        "bluetooth": false,
+        "app_required": false
+      },
+      "app_compatibility": {
+        "ios_version": "N/A",
+        "android_version": "N/A",
+        "subscription_cost": "N/A",
+        "languages": "N/A"
+      },
+      "installation": {
+        "setup_time": "5-10 minutes",
+        "tools_required": "Screwdriver or drill",
+        "mounting_options": [
+          "Ground stake",
+          "Wall mount",
+          "Fence mount",
+          "Brick mount"
+        ],
+        "professional_installation": false,
+        "trenching_required": false
+      },
+      "features": [
+        "Steel construction",
+        "Dual-orientation design",
+        "Security cable compatible",
+        "Quick-release mechanism",
+        "Universal mounting points"
+      ],
+      "included_accessories": [
+        "Wood screws (4)",
+        "Thumb screws (4)",
+        "Installation hardware"
+      ],
+      "warranty": {
+        "duration_years": 2,
+        "coverage": "Manufacturing defects",
+        "return_policy_days": 30
+      },
+      "awards": [],
+      "pros": [
+        "Versatile mounting options",
+        "Steel construction for durability",
+        "Security features",
+        "Quick device attachment/removal",
+        "Works on multiple surfaces"
+      ],
+      "cons": [
+        "Requires tools for installation",
+        "Cable lock sold separately",
+        "May rust in extremely wet conditions"
+      ]
+    },
+    {
+      "id": "oto-solutions-discontinued",
+      "name": "OtO Solutions Program (Discontinued)",
+      "category": "Lawn Treatment",
+      "type": "Subscription Service",
+      "status": "Discontinued",
+      "price": {
+        "current_price_usd": 0,
+        "historical_price_usd": 45,
+        "currency": "USD",
+        "price_range": "40-50 per bottle",
+        "promotional_discounts": "N/A - Service discontinued"
+      },
+      "dimensions": {
+        "length_inches": 3.0,
+        "height_inches": 8.0,
+        "width_inches": 3.0,
+        "weight_kg": 0.5,
+        "weight_lbs": 1.1
+      },
+      "coverage": {
+        "radius_feet": "Same as main device",
+        "diameter_feet": "Same as main device",
+        "area_sqft": "Same as main device",
+        "practical_coverage_sqft": "Same as main device",
+        "spray_pattern": "Applied through main device",
+        "precision_zones": "Applied to selected zones only"
+      },
+      "power_requirements": {
+        "primary_power": "Uses main device power",
+        "solar_hours_required": "N/A",
+        "backup_power": "N/A",
+        "external_solar_compatible": "N/A",
+        "battery_type": "N/A",
+        "operating_temperature_min_f": 32,
+        "operating_temperature_max_f": 149
+      },
+      "water_requirements": {
+        "minimum_pressure_psi": "Same as main device",
+        "recommended_pressure_psi": "Same as main device",
+        "minimum_hose_diameter_inches": "Same as main device",
+        "flow_rate_gpm": "Same as main device",
+        "connection_type": "Connects to main device bays"
+      },
+      "connectivity": {
+        "wifi_frequency": "Uses main device connectivity",
+        "wifi_signal_requirement": "Uses main device connectivity",
+        "bluetooth": false,
+        "app_required": true
+      },
+      "app_compatibility": {
+        "ios_version": "Same as main device",
+        "android_version": "Same as main device",
+        "subscription_cost": "Was $40-50 per bottle",
+        "languages": [
+          "English"
+        ]
+      },
+      "installation": {
+        "setup_time": "2 minutes",
+        "tools_required": "None",
+        "mounting_options": [
+          "Inserted into device bays"
+        ],
+        "professional_installation": false,
+        "trenching_required": false
+      },
+      "features": [
+        "Lawn fertilizer",
+        "Insect repellent",
+        "Odor eliminator",
+        "Plant food",
+        "Pet-safe formulations",
+        "60-day bottle duration",
+        "QR code identification"
+      ],
+      "included_accessories": [
+        "QR code label",
+        "Feed cap connector"
+      ],
+      "warranty": {
+        "duration_years": 0,
+        "coverage": "N/A - Product discontinued",
+        "return_policy_days": 0
+      },
+      "awards": [],
+      "pros": [
+        "Pet and family safe",
+        "Precise application",
+        "Automated dispensing",
+        "Multiple treatment types",
+        "Easy bottle replacement"
+      ],
+      "cons": [
+        "Discontinued January 2025",
+        "High recurring cost",
+        "Limited availability",
+        "Required subscription model",
+        "Customer disappointment over discontinuation"
+      ]
+    }
+  ],
+  "comparison_fields": {
+    "basic_info": [
+      "name",
+      "category",
+      "type",
+      "status"
+    ],
+    "pricing": [
+      "current_price_usd",
+      "historical_price_usd",
+      "price_range"
+    ],
+    "physical": [
+      "length_inches",
+      "height_inches",
+      "width_inches",
+      "weight_kg"
+    ],
+    "coverage": [
+      "radius_feet",
+      "area_sqft",
+      "spray_pattern"
+    ],
+    "power": [
+      "primary_power",
+      "solar_hours_required",
+      "operating_temperature_min_f"
+    ],
+    "installation": [
+      "setup_time",
+      "tools_required",
+      "professional_installation"
+    ],
+    "connectivity": [
+      "wifi_frequency",
+      "app_required",
+      "bluetooth"
+    ],
+    "warranty": [
+      "duration_years",
+      "return_policy_days"
+    ]
+  },
+  "product_categories": [
+    "Smart Irrigation",
+    "Power Accessory",
+    "Installation Accessory",
+    "Lawn Treatment"
+  ],
+  "active_products": 3,
+  "discontinued_products": 1,
+  "total_products": 4
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OtO Lawn - Smart Sprinkler Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="chatbot-container">
+        <div class="chat-header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-seedling"></i>
+                    <span>OtO Assistant</span>
+                </div>
+                <div class="status">
+                    <div class="status-dot"></div>
+                    <span>Online</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-messages" id="chatMessages">
+        </div>
+
+        <div class="quick-actions" id="quickActions">
+            <button class="quick-action-btn" onclick="sendQuickMessage('Help me with setup')">
+                <i class="fas fa-tools"></i>
+                Setup Help
+            </button>
+            <button class="quick-action-btn" onclick="sendQuickMessage('Help me with coverage info')">
+                <i class="fas fa-ruler"></i>
+                Coverage Info
+            </button>
+            <button class="quick-action-btn" onclick="sendQuickMessage('Help me with troubleshooting')">
+                <i class="fas fa-wrench"></i>
+                Troubleshooting
+            </button>
+            <button class="quick-action-btn" onclick="sendQuickMessage('Help me with pricing')">
+                <i class="fas fa-dollar-sign"></i>
+                Pricing
+            </button>
+        </div>
+
+        <div class="chat-input-container">
+            <div class="chat-input">
+                <input type="text" id="messageInput" placeholder="Ask me anything about OtO..." autocomplete="off">
+                <button id="sendButton" onclick="sendMessage()">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

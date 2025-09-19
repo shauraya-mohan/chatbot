@@ -1,0 +1,383 @@
+{
+    "company_info": {
+      "name": "OtO Inc.",
+      "brand": "OtO Lawn",
+      "founded": 2019,
+      "location": {
+        "headquarters": "Concord, Ontario, Canada",
+        "address": "270 Drumlin Circle, Unit 2, Concord, ON L4K 3E2",
+        "phone": "+1 (833) GREEN-17 or +1 833-473-3617",
+        "phone_support_hours": "10:00AM-7:00PM EST, Daily"
+      },
+      "website": "https://otolawn.com/",
+      "industry": "Manufacturing",
+      "company_size": "11-50 employees",
+      "type": "Privately Held",
+      "status": "Acquired by Rain Bird Corporation in 2025",
+      "specialties": [
+        "Engineering",
+        "Product Design",
+        "Innovation",
+        "IoT",
+        "Smart Devices",
+        "Consumer Electronics",
+        "Robotics",
+        "Water Management",
+        "lawn care",
+        "technology",
+        "Startup"
+      ]
+    },
+    "founder_ceo": {
+      "name": "Ali Sabti",
+      "background": "Engineering background with experience in medical, automotive, and electronics sectors",
+      "story": "Founded OtO after buying a house and struggling to maintain the lawn due to busy schedule. Didn't want to use harsh chemicals due to concern for children and pets.",
+      "linkedin": "Available on company LinkedIn page"
+    },
+    "key_team_members": {
+      "john": {
+        "title": "Chief Operating Officer",
+        "focus": "strategy, operations, and finance",
+        "background": "Experience as founder, strategy and growth leader, and investment banker"
+      },
+      "maddie": {
+        "title": "Director of Product and Customer Experience",
+        "background": "Marketing specialist with experience at Walt Disney Studios"
+      },
+      "jeff": {
+        "title": "Director of Hardware Engineering",
+        "background": "University of Waterloo Mechanical Engineering graduate, consumer electronics industry experience"
+      }
+    },
+    "company_mission_vision": {
+      "mission": "To turn our customers' lawns and gardens into beautiful, comfortable ecosystems.",
+      "vision": "To bring nature and technology together and design a better, more sustainable future for all.",
+      "promise": "To continually build products that deliver on our mission, values, and expectations."
+    },
+    "product_info": {
+      "main_product": "OtO Smart Sprinkler System",
+      "tagline": "Meet your lawn's new best friend",
+      "product_description": "OtO waters automatically where you want, when you want. All without the hassle or cost of traditional sprinkler systems.",
+      "setup": "Connect your hose and WiFi and OtO is ready to go",
+      "key_value_proposition": "Save up to $4,240 with OtO"
+    },
+    "product_features": {
+      "core_features": [
+        "Precision nozzle with custom-shaped zones",
+        "Weather-intelligent watering",
+        "Solar powered operation",
+        "360-degree coverage with 40-foot radius",
+        "Mobile app control",
+        "Built-in security features",
+        "Easy setup (minutes, no trenching)",
+        "Wind skip feature",
+        "Real-time weather adjustments"
+      ],
+      "coverage": {
+        "radius": "Up to 40 feet (30 feet advertised range)",
+        "diameter": "80 feet",
+        "area": "5,000 sqft per device",
+        "practical_coverage": "2,800 square feet"
+      },
+      "zones": {
+        "unlimited_zones": "Create unlimited zones on each device",
+        "zone_types": [
+          "spot",
+          "line",
+          "area"
+        ],
+        "precision_spots": "Up to 10 precise spot zones per device"
+      }
+    },
+    "technical_specifications": {
+      "dimensions": {
+        "device": "16.L x 12.3H x 3.9W inches",
+        "weight": "2.722kg"
+      },
+      "power": {
+        "primary": "On-board solar panel",
+        "solar_requirements": "Minimum 3 hours direct sunlight per day",
+        "backup": "50ft power cable with wall adapter included",
+        "external_solar": "External solar panel accessory available (16ft cable)"
+      },
+      "requirements": {
+        "water_pressure": "Minimum 50 PSI",
+        "hose": "Minimum 5/8 inch diameter with brass garden hose thread (GHT) fittings",
+        "wifi": "2.45GHz, -70 dBm or greater",
+        "operating_temperature": "Above 32°F (0°C), tested up to 149°F (65°C)"
+      },
+      "app_compatibility": {
+        "ios": "iOS 13.0 and above (iOS 15.1 for newer versions)",
+        "android": "Android 8.0 and above (Android 5.0 for some versions)",
+        "language": "English",
+        "cost": "Free for life, no monthly subscriptions"
+      }
+    },
+    "pricing": {
+      "single_device": "$499 USD",
+      "current_pricing": "$589 (as of recent updates)",
+      "historical_pricing": "Previously available for less than $300",
+      "bundles": {
+        "2_devices": "15% savings",
+        "multiple_units": "Available for larger properties"
+      },
+      "comparison": "Typically half the price of traditional irrigation systems ($8k+ for in-ground systems)"
+    },
+    "availability_shipping": {
+      "shipping": {
+        "cost": "FREE shipping",
+        "timeline": "Ships within 2 business days",
+        "regions": "North America (US and Canada)",
+        "customs": "No customs fees"
+      },
+      "return_policy": {
+        "period": "30-day money back guarantee",
+        "activation_based": "30 days from activation (up to 1 year after purchase for gifts)",
+        "process": "Contact care@otolawn.com for return shipping label",
+        "fees": "NO shipping or restocking fees",
+        "requirements": "Must include proof of purchase"
+      },
+      "warranty": "2-year parts and labor warranty"
+    },
+    "contact_information": {
+      "customer_support": "care@otolawn.com",
+      "general_inquiries": "info@otolawn.com",
+      "careers": "joinus@otolawn.com",
+      "phone": "+1 (833) GREEN-17 or +1 833-473-3617",
+      "support_hours": "10:00AM-7:00PM EST, Daily",
+      "help_center": "Available on website"
+    },
+    "setup_requirements": {
+      "essentials": [
+        "Pressurized water (min. 50 PSI)",
+        "Garden hose",
+        "Wi-Fi connection",
+        "3 hours direct sunlight per day (for solar) OR wall outlet access"
+      ],
+      "installation": {
+        "time": "Minutes",
+        "tools": "Mounting bracket and screws included",
+        "options": "Ground mounting or wall/post installation",
+        "security": "Cable lock compatible (lock not included)"
+      }
+    },
+    "app_features": {
+      "current_version": "3.5.2",
+      "key_features": [
+        "Custom zone creation",
+        "Watering schedule management",
+        "Weather monitoring and adjustments",
+        "Real-time event tracking",
+        "Device health monitoring",
+        "Skip watering feature",
+        "Home screen dashboard",
+        "Detailed event history",
+        "Multiple device management"
+      ],
+      "recent_updates": [
+        "Home Screen: Snapshot of today's events and devices",
+        "Schedule Page: Comprehensive view of past, present, and upcoming events",
+        "Scheduled Item Cards: Detailed information for each event",
+        "Bug fixes and performance enhancements"
+      ]
+    },
+    "awards_recognition": [
+      "CES 2022 Best of Innovation Award (Smart Home category)",
+      "TIME's Best Inventions of 2022",
+      "Featured in multiple tech publications and podcasts"
+    ],
+    "customer_feedback": {
+      "positive": [
+        "Perfect for oddly shaped back yard",
+        "Lawn looks amazing",
+        "Game changer for my yard",
+        "Set it and forget it",
+        "Saves me an hour a day in the summers",
+        "Superior alternative to inground irrigation system",
+        "Magical work it does"
+      ],
+      "concerns": [
+        "Some users report shorter spray distance than advertised (18-22 feet vs 30 feet)",
+        "Online visualization tool accuracy issues",
+        "Solutions program discontinued (major concern for some users)"
+      ]
+    },
+    "discontinued_features": {
+      "solutions_program": {
+        "status": "Discontinued in 2025",
+        "previous_offerings": [
+          "Lawn fertilizer",
+          "Insect repellent",
+          "Odor eliminator",
+          "Plant food"
+        ],
+        "reason": "Company decided to focus on core irrigation technology",
+        "impact": "App no longer supports solution installation/application",
+        "customer_response": "Many customers offered full refunds upon request"
+      }
+    },
+    "competitors_alternatives": [
+      "Rachio smart sprinkler controller",
+      "Skydrop smart watering controller",
+      "Traditional in-ground irrigation systems",
+      "Manual sprinkler systems"
+    ],
+    "business_model": {
+      "revenue_streams": [
+        "Hardware sales (primary)",
+        "Accessories (external solar panel, mounts)",
+        "Previously: Solution subscriptions (discontinued)"
+      ],
+      "target_market": "Homeowners with small to medium suburban lawns, DIY enthusiasts, environmentally conscious consumers"
+    },
+    "sustainability_focus": {
+      "water_conservation": "Precision watering reduces waste by up to 50%",
+      "environmental_impact": "Reduces residential water waste due to poor irrigation",
+      "eco_friendly": "Solar powered, reduces carbon footprint",
+      "smart_features": "Weather-based adjustments prevent overwatering"
+    },
+    "installation_support": {
+      "self_installation": "Designed for easy DIY setup",
+      "video_tutorials": "Available on YouTube channel",
+      "customer_support": "Available via email and phone",
+      "troubleshooting": "Help center and support documentation available"
+    },
+    "recent_news": {
+      "acquisition": {
+        "date": "April 2025",
+        "acquirer": "Rain Bird Corporation",
+        "terms": "Wholly owned subsidiary",
+        "impact": "OtO continues operating under own brand from Toronto headquarters",
+        "strategic_fit": "Aligns with Rain Bird's 'Intelligent Use of Water' mission"
+      }
+    },
+    "faq_common_questions": {
+      "setup_issues": [
+        "Can't see any Wi-fi networks in list",
+        "App crashing on zone setup screen",
+        "OtO just spins around in a circle when running",
+        "Device doesn't reach advertised 30 feet",
+        "Device offline (no status light)",
+        "OtO doesn't charge properly",
+        "OtO flattening grass/plants or moving seeds"
+      ],
+      "water_pressure_optimization": [
+        "Remove any connectors or splitters along the line",
+        "Ensure water source is fully open",
+        "Use shortest possible hose to reduce pressure loss",
+        "Check for kinks, bends, coils or leaks in hose",
+        "Minimum 50 PSI required, 55+ PSI ideal for best range"
+      ],
+      "troubleshooting_spray_distance": [
+        "Ensure minimum 5.6 GPM flow rate",
+        "Use hose diameter of at least 5/8 inches (larger is better)",
+        "Check that all thumb screws are properly secured",
+        "Verify device is level and stable"
+      ]
+    },
+    "seasonal_maintenance": {
+      "winter_preparation": [
+        "Turn on Winter Mode in app to protect battery",
+        "Turn off water source and drain device completely",
+        "Store indoors where it won't freeze",
+        "Keep plugged in or charge in spring"
+      ],
+      "spring_setup": [
+        "Charge OtO for 3 hours with solar panel covered",
+        "Take device out of Winter Mode in app",
+        "Re-install or check hose connections",
+        "Test zones using Water Manually function"
+      ],
+      "regular_maintenance": [
+        "Keep device clean with damp cloth (no abrasive chemicals)",
+        "Keep solar panel clean and unobstructed",
+        "Check hose gasket filter periodically",
+        "Clean any debris from hose connections"
+      ]
+    },
+    "customer_reviews_detailed": {
+      "highly_positive": [
+        "Best thing I've ever bought - using for over a month",
+        "Saves me an hour a day in the summers",
+        "Superior alternative to inground irrigation system",
+        "Excellent customer service - prompt replacements",
+        "Easy setup, lawn looks greener, flowers bloom better",
+        "Perfect for new sod care during crucial first weeks"
+      ],
+      "mixed_reviews": [
+        "Great concept but some durability concerns after 2+ years",
+        "Device can fail just after warranty expires",
+        "Some units leak after one season of use",
+        "Spray distance often shorter than advertised (18-22ft vs 30ft)",
+        "Zone setup can be tricky, requires multiple adjustments"
+      ],
+      "specific_complaints": [
+        "Solutions program discontinuation was major disappointment",
+        "Price increase from ~$300 to $500-600 range",
+        "Customer service quality declined after Rain Bird acquisition",
+        "Some customers became '$500 paperweight after 2 years'"
+      ]
+    },
+    "community_sentiment": {
+      "reddit_feedback": [
+        "Company survival concerns due to high pricing",
+        "Mixed reactions to Rain Bird acquisition",
+        "Strong demand for refillable solution bottles",
+        "Beta testing program suggests continued development",
+        "Price sensitivity - $300 acceptable, $500+ questioned"
+      ],
+      "trustpilot_concerns": [
+        "Device failures right after warranty expiration",
+        "Limited replacement options (only discounts offered)",
+        "Durability questions for premium-priced product"
+      ]
+    },
+    "app_features_detailed": {
+      "zone_types_explained": {
+        "spot": "Single targeted areas like tree bases or garden beds",
+        "line": "Narrow rows of hedges or garden areas",
+        "area": "Large polygon zones perfect for lawns"
+      },
+      "scheduling_features": [
+        "Default: 3 times per week at 6:00 AM",
+        "1.25 inches of water per week default",
+        "Weather intelligence automatically adjusts",
+        "Manual watering on-demand available",
+        "Skip watering feature for specific days"
+      ],
+      "monitoring_capabilities": [
+        "Battery and Wi-Fi status tracking",
+        "Weather forecast integration",
+        "Event history and upcoming schedules",
+        "Water usage tracking",
+        "Device health notifications"
+      ]
+    },
+    "installation_video_timestamps": {
+      "setup_tutorial": {
+        "intro": "00:00 - Intro to OtO",
+        "location": "01:04 - Choose a Location",
+        "water": "01:30 - Connect to Water",
+        "pairing": "02:28 - Pair with App",
+        "install": "03:16 - Install Device",
+        "zones": "04:07 - Set Zones",
+        "winterize": "08:06 - Winterize"
+      }
+    },
+    "support_resources": {
+      "help_channels": [
+        "Phone: +1 (833) GREEN-17 (10AM-7PM EST Daily)",
+        "Email: care@otolawn.com",
+        "In-app: Report Issues feature",
+        "Website: support.otolawn.com",
+        "Social: @otolawn on Instagram, Facebook, TikTok"
+      ],
+      "documentation": [
+        "Video tutorials on YouTube channel",
+        "Detailed setup guides with photos",
+        "Troubleshooting articles",
+        "FAQ section with common issues",
+        "User manual with specifications"
+      ]
+    }
+  }
